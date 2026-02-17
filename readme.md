@@ -1,4 +1,4 @@
-# UdinROV
+# UdinROV (Remotely Operated Vehicle)
 ## Prerequisite
 This section contains the hardware and software that UdinROV use.
 
@@ -17,7 +17,7 @@ This section contains the hardware and software that UdinROV use.
 ### Ethernet Address: 
 `192.168.50.1`
 ### Subnet
- 255.255.255.0
+ `255.255.255.0`
 
 ## __SBC ireng-pi__
 ### Ethernet address
